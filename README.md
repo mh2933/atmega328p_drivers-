@@ -6,7 +6,7 @@ converting analog value to uart/serial-data sending to an RPI or,
 any reciever that can read UART,
 perhaps an atmega328p.
 
-We can keep this a bit open in the beginning wich type of analog-sensors and what the revieving end should look like, 
+We can keep this a bit open in the beginning wich type of analog-sensors and what the recieving end should look like, 
 but then we need to write drivers for ADC also and then 
 drivers for UART-output and perhaps
 UART-input depending on what we want on the recieving end,
