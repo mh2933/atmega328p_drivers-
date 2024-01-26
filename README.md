@@ -1,2 +1,29 @@
 # atmega328p_drivers
-Drivers in C for an atmega328p, analog sensor in to atmega328p, converting analog value to uart/seriell-data sending to an RPI or any reciever that can read UART perhaps an atmega328p.  
+Drivers in C for an atmega328p, analog sensor in to atmega328p, 
+converting analog value to uart/seriell-data sending to an RPI or,
+any reciever that can read UART,
+perhaps an atmega328p.
+
+We can keep this a bit open in the beginning wich type of analog-sensors and what the revieving end should look like, 
+but then we need to write drivers for ADC also and then 
+drivers for UART-output and perhaps
+UART-input depending on what we want on the recieving end,
+if we go for RPI as a reciever, the RPI could read UART and send wirelessly(bluetooth serial?) to a phone
+or just the terminal, or perhaps a display of some sort.
+
+This project-description is open for interpretation and as the project progress it will become more clear 
+what direction it should take.
+
+A good start could be to start with drivers for ADC.
+
+We can list different type of configuartions here in the git-repo and schematic overviews, pictures etc.
+
+AN ORGANIZED LIST OF PROJECT OBJECTIVES:
+1. Writing drivers for ADC    
+      - Tempsensor or lightsensor. We can just hook up an voltage in the beginning. 
+2. Writing drivers for UART/serial output.
+3. Writing drivers for UART/serial input.?!?!
+
+
+//
+Please feel free to change anything.  
