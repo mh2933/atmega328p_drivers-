@@ -1,5 +1,7 @@
 # atmega328p_drivers
-Drivers in C for an atmega328p, analog sensor in to atmega328p, 
+This is a repo for learning to write drivers in C for an Atmega328p.
+
+Reading the value from an analog sensor in to atmega328p, 
 converting analog value to uart/seriell-data sending to an RPI or,
 any reciever that can read UART,
 perhaps an atmega328p.
@@ -9,7 +11,7 @@ but then we need to write drivers for ADC also and then
 drivers for UART-output and perhaps
 UART-input depending on what we want on the recieving end,
 if we go for RPI as a reciever, the RPI could read UART and send wirelessly(bluetooth serial?) to a phone
-or just the terminal, or perhaps a display of some sort.
+or just the terminal, or perhaps a display.
 
 This project-description is open for interpretation and as the project progress it will become more clear 
 what direction it should take.
