@@ -2,7 +2,7 @@
 This is a repo for learning to write drivers in C for an Atmega328p.
 
 Reading the value from an analog sensor in to atmega328p, 
-converting analog value to uart/seriell-data sending to an RPI or,
+converting analog value to uart/serial-data sending to an RPI or,
 any reciever that can read UART,
 perhaps an atmega328p.
 
