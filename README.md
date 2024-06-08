@@ -24,7 +24,9 @@ AN ORGANIZED LIST OF PROJECT OBJECTIVES:
 1. Writing drivers for ADC    
       - Tempsensor or lightsensor. We can just hook up an voltage in the beginning. 
 2. Writing drivers for UART/serial output.
+      - Output to terminal and RPI. 
 3. Writing drivers for UART/serial input.?!?!
+      -Depends on the reciving end RPI is pretty straight forward in Python programming language. 
 
 
 //
