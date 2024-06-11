@@ -16,7 +16,7 @@ or just the terminal, or perhaps a display.
 This project-description is open for interpretation and as the project progress it will become more clear 
 what direction it should take.
 
-A good start could be to start with drivers for ADC.
+A good start could be to start with drivers for the ADC.
 
 We can list different type of configuartions here in the git-repo and schematic overviews, pictures etc.
 
