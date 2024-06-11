@@ -1,5 +1,5 @@
 # atmega328p_drivers
-This is a repo for learning to write drivers in C for an Atmega328p.
+This is a repo to learn to write drivers in C for an Atmega328p.
 
 Reading the value from an analog sensor in to atmega328p, 
 converting analog value to uart/serial-data sending to an RPI or,
