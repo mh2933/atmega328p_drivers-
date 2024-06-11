@@ -18,7 +18,7 @@ what direction it should take.
 
 A good start could be to start with drivers for the ADC.
 
-We can list different type of configuartions here in the git-repo and schematic overviews, pictures etc.
+We can list different type of configurations here in the git-repo and schematic overviews, pictures etc.
 
 AN ORGANIZED LIST OF PROJECT OBJECTIVES:
 1. Writing drivers for ADC    
