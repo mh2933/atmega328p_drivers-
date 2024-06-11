@@ -41,7 +41,8 @@ Please feel free to change anything.
 
 
 
-![adc_arduino_rpi](https://github.com/mh2933/atmega328p_drivers-/assets/42110442/e8299a37-7630-4829-bab8-6667f60294b3)
+![adc_arduino_rpi](https://github.com/mh2933/atmega328p_drivers-/assets/42110442/1a36ae8c-3e37-43bf-b39a-5a21687bced8)
+
 
 
 
