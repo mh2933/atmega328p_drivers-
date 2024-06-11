@@ -32,7 +32,17 @@ AN ORGANIZED LIST OF PROJECT OBJECTIVES:
 //
 Please feel free to change anything.  
 
-![adc_arduino_rpi - kopia](https://github.com/mh2933/atmega328p_drivers-/assets/42110442/29f22244-105b-43c0-a06e-a6c0d4e283f4)
+
+
+
+
+
+
+
+
+
+![adc_arduino_rpi](https://github.com/mh2933/atmega328p_drivers-/assets/42110442/e3268a8b-76d1-4f60-b1ba-c1543e50ef95)
+
 
 
 
