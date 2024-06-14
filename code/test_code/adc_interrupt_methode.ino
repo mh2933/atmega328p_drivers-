@@ -63,7 +63,8 @@ int main(void)
 {
   // Initialize serial communication
   Serial.begin(9600); // Adjust baud rate as needed
-
+  
+  /* PORT C is configured as input */
   DDRC = 0x00;
 
   
